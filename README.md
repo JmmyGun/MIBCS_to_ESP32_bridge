@@ -1,4 +1,4 @@
-# MIBCS_to_ESP32_bridge
+# MIBCS to ESP32 bridge
 
 **MIBCS to ESP32 Bridge** è un bridge tra la bilancia Mi Body Composition Scale 2 (MIBCS) e un ESP32. Il bridge consente di acquisire e monitorare i dati della bilancia MIBCS tramite BLE e visualizzarli su un ESP32 attraverso il monitor seriale.
 
